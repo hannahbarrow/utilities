@@ -1,6 +1,4 @@
 # Data-Story-4
 Exploring Sewanee Water Use
 
-Link to my exploration [dashboard]().
-
-Link to my [screen recording](). 
+Link to my [screen recording](https://drive.google.com/file/d/1n03M5t92hj8gZi1l1bJVETE4yShfHcjm/view?usp=sharing) showing my shiny app.
